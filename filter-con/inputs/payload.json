@@ -1,0 +1,69 @@
+{
+  "plano": [
+    {
+      "id": 1,
+      "variaveis": [
+        {
+          "id": 4,
+          "posicao": 3,
+          "nome": "Rede Atendimento",
+          "valores": [
+            {
+              "id": 4587,
+              "valor": "testevalido"
+            },
+            {
+              "id": 1234,
+              "valor": "teste"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "valores": [
+            {
+              "id": 8888,
+              "valor": "0001"
+            },
+            {
+              "id": 888888,
+              "valor": "0002"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nome": "Diagnóstica",
+      "variaveis": [
+        {
+          "id": 4,
+          "valores": [
+            {
+              "id": 9999,
+              "valor": "teste3"
+            },
+            {
+              "id": 423100,
+              "valor": "teste10"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "valores": [
+            {
+              "id": 422406,
+              "valor": "0004"
+            },
+            {
+              "id": 422407,
+              "valor": "0003"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
