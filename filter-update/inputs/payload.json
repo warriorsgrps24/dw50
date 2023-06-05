@@ -1,0 +1,17 @@
+[
+  {
+    "value": "130.434782608696",
+    "formattedValue": "$130.43",
+    "userPriceGroup": "community_costs"
+  },
+  {
+    "value": "266.086956521739",
+    "formattedValue": "$266.09",
+    "userPriceGroup": "Summer, weekend and public holidays"
+  },
+  {
+    "value": null,
+    "formattedValue": null,
+    "userPriceGroup": "Weekend and public holidays"
+  }
+]
