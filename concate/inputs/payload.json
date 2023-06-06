@@ -1,0 +1,26 @@
+[
+    {
+        "empId": "ex12345",
+        "fullName": "Peter parker",
+        "street": "Second Ave 46",
+        "city": "San Francisco",
+        "state": "veniam",
+        "postal": "sit",
+        "country": "Mexico",
+        "dept": "hr",
+        "joinedDate": "2021-12-22",
+        "miles": 68
+    },
+    {
+        "empId": "ex54321",
+        "fullName": "Joseph charles",
+        "street": "First Ave 47",
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "postal": "560100",
+        "country": "India",
+        "dept": "finance",
+        "joinedDate": "2021-11-15",
+        "miles": 49
+    }
+]
