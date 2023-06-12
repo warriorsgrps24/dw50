@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "itemType": "Reward",
+      "id": "REWARD-1",
+      "isActive": true
+    },
+    {
+      "itemType": "Reward",
+      "id": "REWARD-2",
+      "isActive": false
+    },
+    {
+      "itemType": "Installation",
+      "id": "INSTALLATION-1",
+      "isActive": true
+    },
+    {
+      "itemType": "Installation",
+      "id": "INSTALLATION-2",
+      "isActive": false
+    }
+  ]
+}
