@@ -1,0 +1,31 @@
+{
+  "result": [
+    {
+      "Id": 134,
+      "Name": "ABC1",
+      "errors": [
+        
+      ]
+    },
+    {
+      "Id": 135,
+      "Name": "ABC2",
+      "errors": [
+        {
+          "error": "400",
+          "message": "Bad request"
+        }
+      ]
+    },
+    {
+      "Id": 136,
+      "Name": "ABC3",
+      "errors": [
+        {
+          "error": "500",
+          "message": "internal error"
+        }
+      ]
+    }
+  ]
+}
