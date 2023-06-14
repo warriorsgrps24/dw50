@@ -1,0 +1,12 @@
+
+{
+	"applicant": [{
+		"firstName": "XYZ",
+		"lastName": "ABC",
+		"phone": [{
+			"number": "111000111",
+			"type": "work"
+		}],
+		"email": "zzzz@wdw.com"
+	}]
+}
