@@ -1,0 +1,22 @@
+[
+  {
+    "ID": "A",
+    "name": "123",
+    "bossID": "C"
+  },
+  {
+    "ID": "B",
+    "name": "345",
+    "bossID": "D"
+  },
+  {
+    "ID": "C",
+    "name": "456",
+    "bossID": "B"
+  },
+  {
+    "ID": "D",
+    "name": "789",
+    "bossID": "C"
+  }
+]
