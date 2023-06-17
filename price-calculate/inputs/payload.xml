@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Orders>
+  <Order id="10001">
+    <ProductId id="P001">P-001</ProductId>
+    <ProductName>Samsung 40InchTV</ProductName>
+    <Category id="C001">Samsung TV</Category>
+    <Price>399</Price>
+    <Quantity>5</Quantity>
+  </Order>
+  <Order id="10001">
+    <ProductId id="P002">P-002</ProductId>
+    <ProductName>Samsung 32Inch TV</ProductName>
+    <Category id="C001">Samsung TV</Category>
+    <Price>299</Price>
+    <Quantity>5</Quantity>
+  </Order>
+</Orders>
