@@ -1,0 +1,58 @@
+{
+ "id": "0001",
+ "type": "donut",
+ "name": "Cake",
+ "ppu": 0.55,
+ "products": [
+ {
+ "id": "5001",
+ "type": "None"
+ },
+ {
+ "id": "5002",
+ "type": "Glazed"
+ },
+ {
+ "id": "5005",
+ "type": "Sugar"
+ },
+ {
+ "id": "5007",
+ "type": "Powdered Sugar"
+ },
+ {
+ "id": "5006",
+ "type": "Chocolate with Sprinkles"
+ },
+ {
+ "id": "5003",
+ "type": "Chocolate"
+ },
+ {
+ "id": "5004",
+ "type": "Maple"
+ }
+ ],
+ "price": [
+ {
+ "id": "5001",
+ "cost": 2
+ },
+ {
+ "id": "5005",
+ "cost": 5
+ },
+ {
+ "id": "5007",
+ "cost": ""
+ },
+ {
+ "id": "5004",
+ "cost": 6
+ },
+ {
+ "id": "5008",
+ "cost": ""
+ }
+ ]
+}
