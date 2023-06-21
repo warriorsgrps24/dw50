@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "books": [
+      {
+        "bookid": "1234",
+        "title": "C#"
+      },
+      {
+        "bookid": "4321",
+        "title": "VB"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "books": [
+      {
+        "bookid": "4321",
+        "title": "VB"
+      },
+      {
+        "bookid": "5678",
+        "title": "Java"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "books": [
+      {
+        "bookid": "1234",
+        "title": "C#"
+      },
+      {
+        "bookid": "56781",
+        "title": "Java"
+      }
+    ]
+  }
+]
