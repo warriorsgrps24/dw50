@@ -1,0 +1,41 @@
+[
+  {
+    "columnName-0": "DOCUMENT TITLE",
+    "content-0": {
+      "document_number": "DOC-1",
+      "major_version_number": 0,
+      "minor_version_number": 1,
+      "title": "Testing Document"
+    },
+    "columnName-1": "STATUS",
+    "content-1": {
+      "status": "Draft"
+    }
+  },
+  {
+    "columnName-0": "DOCUMENT TITLE",
+    "content-0": {
+      "document_number": "DOC-2",
+      "major_version_number": 1,
+      "minor_version_number": 0,
+      "title": "Testing Document"
+    },
+    "columnName-1": "STATUS",
+    "content-1": {
+      "status": "Effective"
+    }
+  },
+  {
+    "columnName-0": "DOCUMENT TITLE",
+    "content-0": {
+      "document_number": "DOC-3",
+      "major_version_number": 0,
+      "minor_version_number": 3,
+      "title": "Testing Document"
+    },
+    "columnName-1": "STATUS",
+    "content-1": {
+      "status": "Draft"
+    }
+  }
+]
